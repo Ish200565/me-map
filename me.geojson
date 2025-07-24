@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      },
+      "properties": {
+        "user": "Ishika",
+        "activity": "DSA Practice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8856, 19.0896]
+      },
+      "properties": {
+        "user": "Student B",
+        "activity": "Quiz Attempt"
+      }
+    }
+  ]
+}
